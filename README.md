@@ -1,4 +1,4 @@
-# cocos_creator_3d_base
+# cocos_creator_3.0_base
 **Features**
 
 **1. bl_tools (Collection of basic functions)**
